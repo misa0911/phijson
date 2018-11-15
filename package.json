@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/misa0911/phijson/issues"
   },
-  "homepage": "https://github.com/misa0911/phijson#readme"
+  "homepage": "https://github.com/misa0911/phijson#readme",
+  "dependencies": {
+    "sass": "^1.15.0"
+  }
 }
