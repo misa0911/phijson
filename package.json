@@ -1,0 +1,19 @@
+{
+  "name": "phi",
+  "version": "9.9.9",
+  "description": "le quoc phi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misa0911/phijson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misa0911/phijson/issues"
+  },
+  "homepage": "https://github.com/misa0911/phijson#readme"
+}
