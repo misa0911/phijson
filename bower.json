@@ -1,0 +1,20 @@
+{
+  "name": "phi",
+  "description": "le quoc phi",
+  "main": "index.js",
+  "authors": [
+    "phi <lequocphi201@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/misa0911/phijson",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
